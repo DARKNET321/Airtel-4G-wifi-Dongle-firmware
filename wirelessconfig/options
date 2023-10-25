@@ -1,0 +1,25 @@
+/dev/modemttyUSB2
+115200
+debug
+noauth
+noipdefault
+defaultroute
+usepeerdns
+crtscts
+lock
+kdebug 7 
+-detach 
+lcp-echo-failure 3
+lcp-echo-interval 15
+lcp-max-configure 10
+lcp-max-failure 10
+ipcp-max-failure 10
+ipcp-max-configure 10
+-ccp
+-vj
+refuse-chap
+refuse-mschap
+refuse-mschap-v2
+refuse-eap
+#show-password
+connect 'chat -v -f /etc/ppp/chat-ztisp'

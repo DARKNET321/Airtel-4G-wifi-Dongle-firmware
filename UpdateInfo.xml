@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<UpdateInfo>
+<ClientInfo>
+<config value="" id="whetherauto"/>
+<config value="" id="operatingsystem"/>
+<config value="" id="device"/>
+<config value="" id="softwareversion"/>
+<config value="" id="firmwareversion"/>
+<config value="" id="unsignedid"/>
+<config value="" id="clientgroup"/>
+<config value="" id="language"/>
+<config value="" id="extendParam"/>
+<config value="" id="auth"/>
+<config value="" id="WinInISOVersion"/>
+<config value="" id="MacInISOVersion"/>
+<config value="" id="LinInISOVersion"/>
+<config value="" id="OSLanguage"/>
+<config value="" id="Architecture"/>
+<config value="" id="OSCalSize"/>
+<config value="" id="Generation"/>
+</ClientInfo>
+<UpdatingInfo>
+<config value="3" id="ResendAutoUpdateTimes"/>
+<config value="" id="connectStatus"/>
+<config value="" id="lastInfoReport"/>
+<config value="Airtel_4G" id="MainUIExecPath"/>
+<config value="11087" id="MainUIPid"/>
+</UpdatingInfo>
+<Device>
+<config value="8200Adownload" id="MF667C"/>
+<config value="8200Adownload" id="MF667"/>
+</Device>
+</UpdateInfo>

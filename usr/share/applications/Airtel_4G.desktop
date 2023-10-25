@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Airtel 4G
+Exec=Airtel_4G
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=Airtel_4G.png
+Categories=Application;Network;
+StartupNotify=true
+Name[en_US]=Airtel 4G
